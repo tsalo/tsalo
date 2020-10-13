@@ -14,7 +14,7 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 
 🌱 I'm currently learning about complex-valued fMRI and systemic low-frequency oscillations (sLFOs) in fMRI.
 
-👯 I’m looking to collaborate on advanced denoising tools for fMRI data. If you're working on this kind of thing, let me know!
+👯 I’m looking to collaborate on advanced denoising tools for fMRI data leveraging multi-echo, complex-valued, or simultaneous physio acquisitions. If you're working on this kind of thing, let me know!
 
 💬 Ask me about using NiMARE or tedana.
 
