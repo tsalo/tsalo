@@ -10,7 +10,7 @@ I am the project maintainer for [`NiMARE`](https://github.com/neurostuff/NiMARE)
 
 I try to answer questions on [NeuroStars](https://neurostars.org) when I have the time, as well.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-purple?style=flat-square.svg)](https://orcid.org/0000-0001-9813-3167)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0001-9813-3167)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=YbH1akIAAAAJ)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://tsalo.github.io)
 
