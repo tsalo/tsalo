@@ -25,3 +25,5 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 📫 How to reach me: Message me on the [BrainHack Mattermost](https://mattermost.brainhack.org) or email me.
 
 😄 Pronouns: he/him
+
+[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsalo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
