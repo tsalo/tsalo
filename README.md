@@ -6,13 +6,13 @@
 I'm a Psychology grad student at Florida International University working with Dr. Angela Laird ([@angielaird](https://github.com/angielaird)).
 I'm primarily interested in neuroinformatics (tool-building for cognitive neuroscience), reproducible neuroimaging research, and semi-advanced fMRI denoising.
 
+I am the project maintainer for [`NiMARE`](https://github.com/neurostuff/NiMARE) (a Python package for neuroimaging meta-analyses), a core contributor to [`tedana`](https://github.com/ME-ICA/tedana) (a library for denoising multi-echo fMRI data), and a member of the maintainers team for [BIDS](https://bids.neuroimaging.io). I also contribute to a number of neuroimaging-related Python tools, like [`fMRIPrep`](https://github.com/poldracklab/fmriprep), the [`physiopy` suite](https://github.com/physiopy), and [`heudiconv`](https://github.com/nipy/heudiconv).
+
+I try to answer questions on [NeuroStars](https://neurostars.org) when I have the time, as well.
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-purple?style=flat-square.svg)](https://orcid.org/0000-0001-9813-3167)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=YbH1akIAAAAJ)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://tsalo.github.io)
-
-I am the project maintainer for [NiMARE](https://github.com/neurostuff/NiMARE) (a Python package for neuroimaging meta-analyses), a core contributor to [tedana](https://github.com/ME-ICA/tedana) (a library for denoising multi-echo fMRI data), and a member of the maintainers team for [BIDS](https://bids.neuroimaging.io). I also contribute to a number of neuroimaging-related Python tools, like [fMRIPrep](https://github.com/poldracklab/fmriprep), the [physiopy suite](https://github.com/physiopy), and [heudiconv](https://github.com/nipy/heudiconv).
-
-I try to answer questions on [NeuroStars](https://neurostars.org) when I have the time, as well.
 
 🔭 I'm currently working on improving NiMARE, converting BIDS to a machine-parseable schema, and building a workflow to process complex-valued, multi-echo fMRI data with synchronous physiological data.
 
