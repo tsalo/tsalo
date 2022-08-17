@@ -3,7 +3,7 @@
 <!--
 **tsalo/tsalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a Psychology grad student at Florida International University working with Dr. Angela Laird ([@angielaird](https://github.com/angielaird)).
+I'm a postdoctoral research at the University of Pennsylvania working with Dr. Ted Satterthwaite.
 I'm primarily interested in neuroinformatics (tool-building for cognitive neuroscience), reproducible neuroimaging research, and semi-advanced fMRI denoising.
 
 I am the project maintainer for [`NiMARE`](https://github.com/neurostuff/NiMARE) (a Python package for neuroimaging meta-analyses), a core contributor to [`tedana`](https://github.com/ME-ICA/tedana) (a library for denoising multi-echo fMRI data), and a member of the maintainers team for the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io). I also contribute to a number of neuroimaging-related Python tools, like [`fMRIPrep`](https://github.com/poldracklab/fmriprep), the [`physiopy` suite](https://github.com/physiopy), and [`heudiconv`](https://github.com/nipy/heudiconv).
