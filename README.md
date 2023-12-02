@@ -6,7 +6,7 @@
 I'm a postdoctoral researcher at the University of Pennsylvania working with Dr. Ted Satterthwaite.
 I'm primarily interested in neuroinformatics (tool-building for cognitive neuroscience), reproducible neuroimaging research, and fMRI denoising.
 
-I am currently a maintainer for [`xcp_d`](https://github.com/PennLINC/xcp_d), a BIDS app that denoises minimally-preprocessed fMRI data coming out of workflows like fMRIPrep and Nibabies.
+I am currently a maintainer for [`XCP-D`](https://github.com/PennLINC/xcp_d), a BIDS app that denoises minimally-preprocessed fMRI data coming out of workflows like fMRIPrep and Nibabies, and [`ASLPrep`](https://github.com/PennLINC/aslprep), a BIDS App for preprocessing arterial spin labeling data.
 
 I am a member of the maintainer teams for [`NiMARE`](https://github.com/neurostuff/NiMARE), [`tedana`](https://github.com/ME-ICA/tedana), [`nilearn`](https://github.com/nilearn/nilearn), and the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io). I also contribute to a number of neuroimaging-related Python tools, like [`fMRIPrep`](https://github.com/poldracklab/fmriprep), the [`physiopy` suite](https://github.com/physiopy), and [`heudiconv`](https://github.com/nipy/heudiconv).
 
