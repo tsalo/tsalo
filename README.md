@@ -3,10 +3,10 @@
 <!--
 **tsalo/tsalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a postdoctoral researcher at the University of Pennsylvania working with Dr. Ted Satterthwaite.
+I'm a senior software developer at the University of Pennsylvania working with Dr. Ted Satterthwaite.
 I'm primarily interested in neuroinformatics (tool-building for cognitive neuroscience), reproducible neuroimaging research, and fMRI denoising.
 
-I am currently a maintainer for [`XCP-D`](https://github.com/PennLINC/xcp_d), a BIDS app that denoises minimally-preprocessed fMRI data coming out of workflows like fMRIPrep and Nibabies, and [`ASLPrep`](https://github.com/PennLINC/aslprep), a BIDS App for preprocessing arterial spin labeling data.
+I am currently the primary maintainer for [`XCP-D`](https://github.com/PennLINC/xcp_d), a BIDS app that denoises minimally-preprocessed fMRI data coming out of workflows like fMRIPrep and Nibabies, and [`ASLPrep`](https://github.com/PennLINC/aslprep), a BIDS App for preprocessing arterial spin labeling data.
 
 I am a member of the maintainer teams for [`NiMARE`](https://github.com/neurostuff/NiMARE), [`tedana`](https://github.com/ME-ICA/tedana), [`nilearn`](https://github.com/nilearn/nilearn), and the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io). I also contribute to a number of neuroimaging-related Python tools, like [`fMRIPrep`](https://github.com/poldracklab/fmriprep), the [`physiopy` suite](https://github.com/physiopy), and [`heudiconv`](https://github.com/nipy/heudiconv).
 
@@ -17,13 +17,13 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://tsalo.github.io)
 [![Metadata](https://img.shields.io/badge/Citation_Metadata-blue?style=flat-square.svg)](https://github.com/tsalo/meta)
 
-🔭 I'm currently working on preparing xcp_d for its first major release and converting BIDS to a machine-parseable schema.
+🔭 I'm currently working on building post-processing BIDS Apps, including fMRIPost-AROMA, fMRIPost-tedana, fMRIPost-phase, and fMRIPost-rapidtide.
 
-🌱 I'm currently learning about arterial spin labeling (ASL) in preparation to start maintaining [`ASLPrep`](https://github.com/PennLINC/aslprep).
+🌱 I'm currently learning about arterial spin labeling (ASL), as I maintain [`ASLPrep`](https://github.com/PennLINC/aslprep).
 
 👯 I’m looking to collaborate on advanced denoising tools for fMRI data leveraging multi-echo fMRI, complex-valued fMRI, or simultaneous physio acquisitions. If you're working on this kind of thing, let me know!
 
-💬 Ask me about using xcp_d, NiMARE, tedana, or BIDS.
+💬 Ask me about using XCP-D, ASLPrep, NiMARE, tedana, or BIDS.
 
 📫 How to reach me: Message me on the [BrainHack Mattermost](https://mattermost.brainhack.org) or email me.
 
